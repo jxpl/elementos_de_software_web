@@ -1,4 +1,5 @@
 1. Consulte y explique que significa a nivel de uso del internet: 
+
 a. Servidor DNS 
  Un servidor DNS (Sistema de Nombres de Dominio) funciona como una “agenda telefónica” de Internet.
  Traduce nombres de dominio (como google.com) en direcciones IP que las computadoras entienden.
@@ -27,8 +28,7 @@ e. Directorio y nombre de archivo
  Archivo: documento específico (archivo.html)
  Sirve para organizar y acceder a contenido dentro de un servidor.
 
-2. Mencionamos dos roles importantes en el desarrollo de un producto web, pero hay otros roles involucrados, consulte y 
- defina qué hace cada uno de los siguientes roles:
+2. Mencionamos dos roles importantes en el desarrollo de un producto web, pero hay otros roles involucrados, consulte y defina qué hace cada uno de los siguientes roles:
 
 a.Diseñador UI/UX 
  UI (Interfaz de Usuario): diseña cómo se ve la aplicación.
