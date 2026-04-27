@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Arriba {
+    background-color: #f0f0f0; 
+    padding: 20px;
+    text-align: center;
+    color: black;
+}
+
+body {
+    background-color: beige;
+    color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+nav a {
+    color: rgb(139, 35, 236);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    display: flex;
+    margin-top: 10px;
+}
+
+main {
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+    max-width: 1200px;
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+}
+
+.contenido {
+    flex: 3;
+    background-color: seagreen;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px;
+}
+
+aside {
+    flex: 1;
+    background-color: blue;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px;
+}
+
+footer {
+    background-color: blueviolet;
+    color: white;
+    padding: 10px;
+    margin-top: auto;
+}
